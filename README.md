@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boyan.</h1>
-<h3 align="center">An engineering manager and consultant in Data Science, Engineering and Strategy.</h3>
+<h3 align="center">A data strategist and management consultant.</h3>
 
 - 📝 I regulary write articles on [https://medium.com/@boyanangelov](https://medium.com/@boyanangelov)
 
