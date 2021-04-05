@@ -1,5 +1,5 @@
 <h1 align="center">Boyan Angelov</h1>
-<h3 align="center">Data strategist and management consultant.</h3>
+<h3 align="center">Data strategist and management consultant</h3>
 
 - 📝 I regulary write articles on [https://medium.com/@boyanangelov](https://medium.com/@boyanangelov)
 
